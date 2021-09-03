@@ -1,0 +1,9 @@
+{
+	"name": "anredd-test-github",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "488f9b71-702e-4a13-9c81-3e1320c77529",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
