@@ -13,6 +13,10 @@
 			"testGlobalparameter3": {
 				"type": "int",
 				"value": 1
+			},
+			"testGlobalparameter4": {
+				"type": "float",
+				"value": 1.2
 			}
 		}
 	},
