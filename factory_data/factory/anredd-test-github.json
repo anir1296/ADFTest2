@@ -1,5 +1,13 @@
 {
 	"name": "anredd-test-github",
+	"properties": {
+		"globalParameters": {
+			"testGlobalParameter1": {
+				"type": "string",
+				"value": "'testGp1'"
+			}
+		}
+	},
 	"location": "eastus",
 	"identity": {
 		"type": "SystemAssigned",
