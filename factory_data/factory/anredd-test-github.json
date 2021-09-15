@@ -5,6 +5,10 @@
 			"testGlobalParameter1": {
 				"type": "string",
 				"value": "'testGp1'"
+			},
+			"testGlobalParameter2": {
+				"type": "string",
+				"value": "'testgp2'"
 			}
 		}
 	},
