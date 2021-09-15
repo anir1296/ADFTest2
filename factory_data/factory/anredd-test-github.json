@@ -9,6 +9,10 @@
 			"testGlobalParameter2": {
 				"type": "string",
 				"value": "'testgp2'"
+			},
+			"testGlobalparameter3": {
+				"type": "int",
+				"value": 1
 			}
 		}
 	},
